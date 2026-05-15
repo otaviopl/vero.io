@@ -1,0 +1,24 @@
+{
+  "id": "b7991a88",
+  "phase": "accept_requested",
+  "pageUrl": "/",
+  "sourceFile": "components/landing/navbar.tsx",
+  "expectedVariants": 3,
+  "arrivedVariants": 3,
+  "visibleVariant": 1,
+  "paramValues": {},
+  "pendingEventSeq": 6,
+  "pendingEvent": {
+    "type": "accept",
+    "id": "b7991a88",
+    "variantId": "1"
+  },
+  "deliveryLease": null,
+  "checkpointRevision": 3,
+  "activeOwner": "749ad36c",
+  "sourceMarkers": {},
+  "fallbackMode": null,
+  "annotationArtifacts": [],
+  "diagnostics": [],
+  "updatedAt": "2026-05-15T22:21:13.961Z"
+}

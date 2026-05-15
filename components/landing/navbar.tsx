@@ -35,11 +35,6 @@ export default function LandingNavbar() {
             </div>
           </div>
           <div className="flex items-center gap-3">
-            <div className="hidden sm:flex items-center gap-1.5 border border-white/10 rounded-lg px-3 py-1.5 text-[12px] text-white/60">
-              <Star className="w-3 h-3 text-[#F59E0B]" />
-              <span>1.2k</span>
-              <span className="text-white/30">GitHub</span>
-            </div>
             <Link href="/login" className="text-[13px] text-white/50 hover:text-white px-3 py-1.5 transition-colors">
               Entrar
             </Link>
